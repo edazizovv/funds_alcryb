@@ -1,16 +1,23 @@
-# Summary
-* ProductLine
-* Fund: All-in Crypto Bivariate Portfolio
+# funds_alcryb
 
-This repo is corresponding to a process of development
-of an investing strategy.
+<a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
+    <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
+</a>
 
-## Strategy hyperparameters
-* **Positioning:** long only
-* **Level of the components:** currency-level
-* **Hedge:** no
-* **Decision type:** prediction of components' weights
-* **Risk behaviour:** highly speculative
+Long-only crypto portfolio strategy
 
-## TODO:
-* Rerun with new data.
+## STATUS:
+
+On hold
+
+## MIRO
+
+<a target="_blank" href="enter miro link">
+    Miro
+</a>
+
+## AZURE
+
+<a target="_blank" href="enter azure link">
+    Azure
+</a>

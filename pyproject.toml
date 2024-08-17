@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "funds_alcryb"
+version = "0.0.1"
+description = "Long-only crypto portfolio strategy"
+authors = [
+  "edazizovv",
+]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "funds_alcryb"}]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
